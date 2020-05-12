@@ -1,6 +1,6 @@
 {
     myobjs":
-[
+    {
     {
     "fruit": "Apple",
     "size": "Large",
@@ -11,8 +11,7 @@
     "size": "Large",
     "color": "Orange"  
     }
-    
-    ]
+}
 }
 
  
